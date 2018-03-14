@@ -1,0 +1,8 @@
+{"intValueToUnlock":1,"boolValueToUnlock":false,"description":"Zbierz swoją pierwszą monete!","achievementName":"1 milion trzeba ukraść","spriteName":"AchievementGraphicCoin","type":0,"unlocked":true,"index":0}
+{"intValueToUnlock":10,"boolValueToUnlock":false,"description":"Zbierz 10 monet.","achievementName":"Hajs z komuni","spriteName":"AchievementGraphicCoin","type":0,"unlocked":true,"index":1}
+{"intValueToUnlock":50,"boolValueToUnlock":false,"description":"Zbierz 50 monet","achievementName":"Hajs sie zgadza!","spriteName":"AchievementGraphicCoin","type":0,"unlocked":false,"index":2}
+{"intValueToUnlock":100,"boolValueToUnlock":false,"description":"Zbierz 100 monet","achievementName":"Od pucybuta do milionera!","spriteName":"AchievementGraphicCoin","type":0,"unlocked":false,"index":3}
+{"intValueToUnlock":1,"boolValueToUnlock":false,"description":"Zgiń po raz pierwszy","achievementName":"Zginełem!","spriteName":"AchievementGraphicDead","type":1,"unlocked":true,"index":4}
+{"intValueToUnlock":2,"boolValueToUnlock":false,"description":"Zgiń po raz drugi","achievementName":"Penta...die!","spriteName":"AchievementGraphicDead","type":1,"unlocked":true,"index":5}
+{"intValueToUnlock":10,"boolValueToUnlock":false,"description":"Zgiń 10 razy","achievementName":"You died...10 times.","spriteName":"AchievementGraphicDead","type":1,"unlocked":false,"index":6}
+{"intValueToUnlock":100,"boolValueToUnlock":false,"description":"Zgiń 100 razy","achievementName":"Brak miejsc na cmentarzu","spriteName":"AchievementGraphicDead","type":1,"unlocked":false,"index":7}

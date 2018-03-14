@@ -1,0 +1,1 @@
+﻿public enum PowerUpType { Left, Right, Up, Teleport, Clone};
